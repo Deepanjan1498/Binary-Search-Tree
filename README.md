@@ -1,2 +1,2 @@
 # Binary-Search-Tree
-Welcome to Binary Search Tree Program.
+Welcome to the Binary Search Tree Program.
